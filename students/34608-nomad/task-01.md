@@ -1,4 +1,4 @@
 # My website
 
-Live: https://lovable.com/@nomad  <!-- заменишь позже на свой реальный URL -->
+link: https://bekzat-digital-nexus.lovable.app/  <!-- заменишь позже на свой реальный URL -->
 
